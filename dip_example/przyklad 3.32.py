@@ -1,0 +1,6 @@
+print ord('a')
+print chr(99)
+print ord('%')
+print chr(115)
+print chr(261)
+print chr(188)
